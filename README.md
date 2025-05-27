@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @javier928
-- 👀 I’m interested in Python and SQL.
+- 👀 I’m interested in C#, Python and SQL.
 - 🌱 I’m writing an app to create short ebooks or user manuals with Python and SQL using Kali Linux or Debian 11.
 - 📫 email: javier928@gmail.com
 
